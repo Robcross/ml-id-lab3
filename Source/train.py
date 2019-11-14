@@ -14,6 +14,7 @@ from scipy.sparse import lil_matrix
 containers = {'us-west-2': '174872318107.dkr.ecr.us-west-2.amazonaws.com/factorization-machines:latest',
              'us-east-1': '382416733822.dkr.ecr.us-east-1.amazonaws.com/factorization-machines:latest',
              'us-east-2': '404615174143.dkr.ecr.us-east-2.amazonaws.com/factorization-machines:latest',
+             'ap-south-1': '991648021394.dkr.ecr.ap-south-1.amazonaws.com/factorization-machines:latest',
              'ap-northeast-1': '351501993468.dkr.ecr.ap-northeast-1.amazonaws.com/factorization-machines:latest',
              'ap-northeast-2': '835164637446.dkr.ecr.ap-northeast-2.amazonaws.com/factorization-machines:latest',
              'ap-southeast-2': '712309505854.dkr.ecr.ap-southeast-2.amazonaws.com/factorization-machines:latest',
